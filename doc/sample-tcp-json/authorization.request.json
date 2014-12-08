@@ -1,0 +1,5 @@
+{
+  "drone_id" : 1
+  "type" : "authorization",
+  "secret_key": "..."
+}

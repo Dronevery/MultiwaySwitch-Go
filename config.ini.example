@@ -1,0 +1,6 @@
+[common]
+role = server
+logFile = production.log
+[server]
+bind = 0.0.0.0:10086
+recevie_buffer_size = 1024
