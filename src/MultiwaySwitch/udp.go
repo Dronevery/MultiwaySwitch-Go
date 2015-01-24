@@ -1,1 +1,1 @@
-package mulswitch
+package MultiwaySwitch

@@ -1,4 +1,4 @@
-package mulswitch
+package MultiwaySwitch
 
 import (
 	"github.com/coopernurse/gorp"

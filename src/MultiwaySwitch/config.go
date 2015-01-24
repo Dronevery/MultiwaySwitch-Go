@@ -1,4 +1,4 @@
-package mulswitch
+package MultiwaySwitch
 
 import (
 	"code.google.com/p/log4go"
